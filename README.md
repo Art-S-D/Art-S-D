@@ -1,4 +1,4 @@
-### Wellcome to my github
+### Welcome to my github
 
 I am a 23 years old french student at [EPITA](epita.fr) working in cloud computing.
 (please remind me to update this every year)
