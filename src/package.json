@@ -1,0 +1,10 @@
+{
+    "name": "src",
+    "version": "1.0.0",
+    "main": "lambda.js",
+    "license": "MIT",
+    "dependencies": {
+        "@aws-sdk/client-ssm": "^3.52.0",
+        "zx": "4.3.0"
+    }
+}
