@@ -1,7 +1,7 @@
 ### Welcome to my github
 
-I am a 23 years old french student at [EPITA](epita.fr) working in cloud computing.
-(please remind me to update this every year)
+I am a 24 years old french student at [EPITA](epita.fr) working in cloud computing.
+(this should update automatically every 8 of december)
 
 I love board games, sci fi books and i have a black belt in taekwondo.
 
