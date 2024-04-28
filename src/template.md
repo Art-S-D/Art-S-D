@@ -1,6 +1,7 @@
 ### Welcome to my github
 
-I am a %AGE% years old software developer from France working in cloud computing.
+I am a %AGE% years old software developer from France working in cloud computing.\
+_(check [this](https://github.com/Art-S-D/Art-S-D) out to see how my age updates automatically on my birthday)_
 
 I love board games, sci fi books and i have a black belt in taekwondo.
 
